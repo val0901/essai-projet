@@ -1,0 +1,2 @@
+<meta name="description" content="<?= $this->e($seo_description) ?>"> 
+	On affichera sur les pages à coté du title, un nouveau paramètre 'seo_description=> ''
